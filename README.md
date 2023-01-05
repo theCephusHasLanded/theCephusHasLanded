@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theCephusHasLanded
 - 👀 I’m interested in Magical Experiences
-- 🌱 I’m currently learning HTML & JS
-- 💞️ I’m looking to collaborate on Modern deployments for software services
+- 🌱 I’m currently learning Web Dev using DOM
+- 💞️ I’m looking to collaborate on Modern deployments for software services in Marketing
 - 📫 How to reach me ---> Google TheCephus!
 
 <!---
