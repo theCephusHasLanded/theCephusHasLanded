@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @theCephusHasLanded
-- 👀 I’m interested in Magical Experiences
-- 🌱 I’m currently learning Web Dev using DOM
-- 💞️ I’m looking to collaborate on Modern deployments for software services in Marketing
-- 📫 How to reach me ---> Google TheCephus!
+<h2 align="center"> Hi there 👋</h2>
 
-<!---
-theCephusHasLanded/theCephusHasLanded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+I'm Cephus, a self-motivated tech designer and full stack web developer.
+</p>
+
+<h4 align="center">
+💻 FSD & CommOps Warrios <a href="https://github.com/theCephusHasLanded">@theCephusHasLanded</a> | 🌱 building <a href="https://github.com/theCephusHasLanded/LKHiTechNewsv2">LKHiTechNews</a> | 💬 connect <a href="https://www.linkedin.com/in/thecephus/">@theCephus</a>
+</h4>
+<p  align="center">
+<a href="https://63c75b2eeb5c30012e0083b2--dapper-gumdrop-6154e4.netlify.app/">Check Out My Website</a>
+</p>
+
+<br/>
+
+
+----
+Credit: [theCephusHasLanded](https://github.com/theCephusHasLanded)
+
+Last Edited on: 1/29/2023
