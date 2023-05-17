@@ -5,7 +5,7 @@ I'm Cephus, a self-motivated tech designer and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 FSD & CommOps Warrior @ UBER | 🐱 <a href="https://github.com/theCephusHasLanded">@theCephusHasLanded</a> | 🌱 Building <a href="https://github.com/theCephusHasLanded/LKHiTechNewsv2">LKHiTechNews</a> | 💬 Connect <a href="https://www.linkedin.com/in/thecephus/">@theCephus</a>
+💻 FSD & CommOps Warrior @ UBER | 🪐 <a href="https://github.com/theCephusHasLanded">@theCephusHasLanded</a> | 🌱 Building <a href="https://github.com/theCephusHasLanded/LKHiTechNewsv2">LKHiTechNews</a> | 💬 Connect <a href="https://www.linkedin.com/in/thecephus/">@theCephus</a>
 </h4>
 <p  align="center">
 <a href="https://live-it-fe.netlify.app/about">Check Out My New Website</a>
