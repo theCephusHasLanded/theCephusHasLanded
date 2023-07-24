@@ -1,18 +1,21 @@
 <h2 align="center"> Hi there 👋🏼</h2>
 
 <p align="center">
-I'm Cephus, a self-motivated tech designer and full stack web developer.
+I'm Cephus, a self-motivated tech designer and full stack web developer.🔮
 </p>
 
 <h4 align="center">
-💻 FSD & CommOps Warrior @ UBER | 🪐 <a href="https://github.com/theCephusHasLanded">@theCephusHasLanded</a> | 🌱 Building <a href="https://github.com/theCephusHasLanded/LKHiTechNewsv2">LKHiTechNews</a> | 💬 Connect <a href="https://www.linkedin.com/in/thecephus/">@theCephus</a>
+💻 Engineer in Pursuit & CommOps Warrior @ UBER | 🪐 <a href="https://github.com/theCephusHasLanded">@theCephusHasLanded</a> | 👾 Building <a href="https://github.com/theCephusHasLanded/LKHiTechNewsv2">LKHiTechNews</a> | ☞ Connect <a href="https://www.linkedin.com/in/thecephus/">@theCephus</a>
 </h4>
+
 <p  align="center">
 <a href="https://main--planet-purchase-plans.netlify.app/planets">Check Out My New Website</a>
 </p>
 
 <br/>
 <p  align="center">
+![43891118-59d4-4e35-abaf-550c4f6fdb08](https://github.com/theCephusHasLanded/theCephusHasLanded/assets/113807743/58a5fbfd-a35d-4aed-a8e2-aa9f1161238a)
+
  <img width="522" alt="0ppp" src="https://github.com/theCephusHasLanded/theCephusHasLanded/assets/113807743/f85b66b6-9553-415a-b256-62f8bf59d60b">
 
 <img width="522" alt="Screenshot 2023-05-15 at 4 17 02 PM" src="https://github.com/theCephusHasLanded/theCephusHasLanded/assets/113807743/ed7e0616-e0b8-4e42-8a54-4f596963ea0e">
