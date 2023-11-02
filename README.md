@@ -13,6 +13,9 @@ I'm Cephus, a self-motivated tech designer and full stack web developer 🔮
 
 <br/>
 <p  align="center">
+<img width="600" alt="Screenshot 2023-10-08 at 1 31 04 PM" src="https://github.com/theCephusHasLanded/theCephusHasLanded/assets/113807743/9d4d4900-7747-4434-abd1-34a9666458cb">
+
+ 
  <img width="600" alt="Screenshot 2023-07-24 at 1 38 53 AM" src="https://github.com/theCephusHasLanded/theCephusHasLanded/assets/113807743/84d69920-707c-4814-a465-a453768a8f39">
 
  <img width="600" alt="0ppp" src="https://github.com/theCephusHasLanded/theCephusHasLanded/assets/113807743/f85b66b6-9553-415a-b256-62f8bf59d60b">
