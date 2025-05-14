@@ -33,4 +33,5 @@ If you're into:
 ---
 **“Automation isn't about replacing people — it's about empowering us to build better systems together.”**
 
-🧠 [LinkedIn](https://www.linkedin.com/in/thecephus/) • 🛠️ [Portfolio coming soon...]https://lkhntech.com/ • 📨 [DMs open]
+🧠 [LinkedIn](https://www.linkedin.com/in/thecephus/) • 🛠️ [Portfolio] (https://lkhntech.com/) • 📨 [DMs open]
+![image](https://github.com/user-attachments/assets/905d2ee3-e532-495c-a20f-90d6c68a7615)
